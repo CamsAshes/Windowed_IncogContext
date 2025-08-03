@@ -1,3 +1,6 @@
+### This is a long-shot, and I have given up on this for now. Might return to it later if ever it becomes relevant again and it strikes my fancy to beat my head against this wall
+
+
 # ![Windowed Logo](extension/Icons/Icon_32.png) Windowed
 
 [Install in Chrome Webstore](https://chrome.google.com/webstore/detail/windowed-floating-youtube/gibipneadnbflmkebnmcbgjdkngkbklb)  
