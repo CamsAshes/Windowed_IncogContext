@@ -1,5 +1,4 @@
-### This is a long-shot, and I have given up on this for now. Might return to it later if ever it becomes relevant again and it strikes my fancy to beat my head against this wall
-
+### CAM'S DISCLAIMER: This fork's attempt is a long-shot, and I have given up on this for now. Might return to it later if ever it becomes relevant again and it strikes my fancy to beat my head against this wall. Please defer to the original by [dralletje](https://github.com/dralletje/Windowed) which is an amazing piece of work that works terribly well in <90% of cases on a standard browser instance. Truly, a masterpiece.
 
 # ![Windowed Logo](extension/Icons/Icon_32.png) Windowed
 
